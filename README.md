@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=catppuccin_latte)
-catppuccin_latte: {
-    title_color: "137980",
-    icon_color: "8839ef",
-    text_color: "4c4f69",
-    bg_color: "eff1f5",
-  }
+
