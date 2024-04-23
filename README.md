@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=tae2's%20Github&fontSize=90)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=catppuccin_latte)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=tae2's%20Github&fontSize=90)
+
+<img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=#E4405F" />
+
