@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=catppuccin_latte)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=welcome%to%tae2%Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=tae2%Github&fontSize=90)
