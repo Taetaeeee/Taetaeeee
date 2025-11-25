@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <br>
 
 
@@ -23,26 +23,13 @@ Here are some ideas to get you started:
 </div>
    <br><br><br><br> 
 
-<div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=200&lines=%EC%99%9C+%EC%95%88%EB%90%98%EC%A7%80%3F" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=200&lines=%EC%99%9C+%EB%90%98%EC%A7%80%3F" alt="Typing SVG" /></a>
-</div>
-<div align=center>
 
-</div>
-
-<div align=center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=flag-india)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taetaeeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
    
 
 
 
  <br> 
-<h3 align="center">༼ つ ◕_◕ ༽つSNS✨</h3>
+<h3 align="center">SNS✨</h3>
 <div align="center">
   <a href="https://www.instagram.com/a_akyung/">
     <img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=#E4405F" />
@@ -51,14 +38,21 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-F3F3F3.svg?style=for-the-badge&logo=tistory&logoColor=20232a" />
   </a>
 </div>
-<h3 align="center">Studying♨_♨</h3>
+<h3 align="center">Studying🌱</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-150458.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-4d77cf.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 <br><br><br><br>
-<div align=center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaetaeeee%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-</div>
+
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taetaeeee&layout=compact&theme=algolia)
+
+<!-- GitHub Stats Card -->
+[![Tae2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+
