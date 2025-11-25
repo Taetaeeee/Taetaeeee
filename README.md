@@ -1,58 +1,84 @@
-
-<br>
-
-
-<!--
-**Taetaeeee/Taetaeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=tae2's%20Github&fontSize=90)
-  
-</div>
-   <br><br><br><br> 
-
-
-   
-
-
-
- <br> 
-<h3 align="center">SNS✨</h3>
+<!-- 헤더 영역 -->
 <div align="center">
+  
+  <!-- 간단한 인사 / 한 줄 소개 -->
+  <h1>Hi there 👋 I'm <strong>Taetaeeee</strong></h1>
+  <p>백엔드 개발자 지망생</p>
+
+  <!-- 프로필 뷰 카운터 -->
+  <img src="https://komarev.com/ghpvc/?username=Taetaeeee&style=flat-square&color=blue" alt="profile views" />
+
+</div>
+
+   ---
+
+## 👩‍💻 About Me
+
+- 🎓 전공: 컴퓨터공학과
+- 💻 관심 분야: Java 백엔드, Python, 블록체인(Hyperledger Fabric), Docker
+- 🌱 요즘 공부하는 것: Java, Spring Boot, 데이터베이스(MySQL) 정리 중
+- 💡 하고 싶은 것: 백엔드 프로젝트 여러 개 쌓기
+
+---
+## 🛠 Tech Stack
+
+<!-- 주로 쓰는 언어 -->
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### DB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## ✏️ Learning Tech
+
+### Backend & DB
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 👉 SNS
+
+<!-- SNS 계정 -->
+<p>
   <a href="https://www.instagram.com/a_akyung/">
-    <img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=#E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-20232a.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="https://taeeeee2.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-F3F3F3.svg?style=for-the-badge&logo=tistory&logoColor=20232a" />
   </a>
-</div>
-<h3 align="center">Studying🌱</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-150458.svg?style=for-the-badge&logo=c&logoColor=white" />
-</div>
+</p>
 
-<br><br><br><br>
+---
 
-<!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taetaeeee&layout=compact&theme=algolia)
+## 📂 Featured Projects
 
-<!-- GitHub Stats Card -->
-[![Tae2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taetaeeee&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+| 프로젝트 | 설명 | 기술 스택 | 기간 |
+| --- | --- | --- | --- |
+| 🔐 **CapSecure** | 키보드 입력 암호화 & 블록체인 저장 시스템 | Python, Hyperledger Fabric, Docker, Git | 2025.03 ~ 진행 중 |
+| 🍜 **Recipe Search** | 공공데이터 기반 요리 레시피 검색 앱 | Java, MySQL, REST API | 2024.11 ~ 2025.01 |
+| 📊 **Accessibility Model** | 버스정류장 위치 기반 교통 접근성·형평성 분석 모델 | Python, Pandas, Scikit-learn, GBDT, Jupyter Notebook | 2025.08 ~ 2025.10 |
+
+추가중..
 
