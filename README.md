@@ -76,9 +76,9 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 기간 |
 | --- | --- | --- | --- |
-| 🔐 **CapSecure** | 키보드 입력 암호화 & 블록체인 저장 시스템 | Python, Hyperledger Fabric, Docker, Git | 2025.03 ~ 진행 중 |
+| 🔐 **CapSecure** | 키보드 입력 암호화 & 블록체인 저장 시스템 | Python, Hyperledger Fabric, Docker, Git | 2025.03 ~ 2025.12 |
 | 🍜 **Recipe Search** | 공공데이터 기반 요리 레시피 검색 앱 | Java, MySQL, REST API | 2024.11 ~ 2025.01 |
 | 📊 **Accessibility Model** | 버스정류장 위치 기반 교통 접근성·형평성 분석 모델 | Python, Pandas, Scikit-learn, GBDT, Jupyter Notebook | 2025.08 ~ 2025.10 |
 
-추가중..
+
 
