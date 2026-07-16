@@ -3,7 +3,7 @@
   
   <!-- 간단한 인사 / 한 줄 소개 -->
   <h1>Hi there 👋 I'm <strong>Taetaeeee</strong></h1>
-  <p>백엔드 개발자 지망생</p>
+  
 
   <!-- 프로필 뷰 카운터 -->
   <img src="https://komarev.com/ghpvc/?username=Taetaeeee&style=flat-square&color=blue" alt="profile views" />
@@ -15,9 +15,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 전공: 컴퓨터공학과
-- 💻 관심 분야: Java 백엔드, Python, 블록체인(Hyperledger Fabric), Docker
-- 🌱 요즘 공부하는 것: Java, Spring Boot, 데이터베이스(MySQL) 정리 중
-- 💡 하고 싶은 것: 백엔드 프로젝트 여러 개 쌓기
+- 💻 관심 분야: Network, Linux, Java, Docker
+- 🌱 요즘 공부하는 것: Network, Linux, CCNA
+- 💡 하고 싶은 것: 네트워크 자격증 취득
 
 ---
 ## 🛠 Tech Stack
