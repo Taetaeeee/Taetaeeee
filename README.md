@@ -93,12 +93,3 @@
 | :--- | :--- | :--- |
 | 🍜 **Recipe Search** | <sub>공공데이터 API를 활용한 요리 레시피 검색 애플리케이션</sub> | <sub>Java · MySQL · REST API</sub> |
 | 🎮 **[Nunchi Omok v2](https://nunchi-omok.nalzzoaleph26.workers.dev/)** | <sub>비공개 동시 배치와 심리전을 활용한 실시간 멀티플레이 오목 게임</sub> | <sub>JavaScript · Cloudflare Workers · D1</sub> |
-
----
-
-#### 🔗Contact & Blog
-<p>
-  <a href="https://taeeeee2.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-F3F3F3?style=for-the-badge&logo=tistory&logoColor=20232a"/>
-  </a>
-</p>
